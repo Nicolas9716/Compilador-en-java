@@ -1,0 +1,46 @@
+extraerCategoriaEntero(String, int)--------- qnum         
+extraerCategoriaDecimal(String, int)-------- znum
+extraerCategoriaCaracter(String, int)------- #val
+extraerCategoriaCadena(String, int)--------- $val
+extraerCategoriaBooleana(String, int)------- tof
+extraerEntero(String, int)------------------ 1214z
+extraerDecimal(String, int)----------------- 1.1111q
+extraerCaracter(String, int)---------------- f#
+extraerBooleano(String, int)---------------- |0
+extraerCadena(String, int)------------------ cIYIY3$
+extraerMetodo(String, int)------------------ M_etodo 
+extraerClase(String, int)------------------- 4_CLASE 
+extraerAS(String, int)---------------------- as
+extraerDuring(String, int)------------------ during
+extraerVacant(String, int)------------------ vacant
+extraerCrack(String, int)------------------- crack
+extraerCondition(String, int)--------------- condition
+extraerOther(String, int)------------------- other
+extraerLevel(String, int)------------------- level
+extraerConstant(String, int)---------------- constant
+extraerInterfaz(String, int)---------------- interfaz
+extraerActual(String, int)------------------ actual
+extraerMasP(String, int)-------------------- +p
+extraerMenosP(String, int)------------------ -p
+extraerSum(String, int)--------------------- SUM
+extraerRes(String, int)--------------------- RES
+extraerMult(String, int)-------------------- MULT     
+extraerDiv(String, int)--------------------- DIV
+extraerAsignacion(String, int)-------------- ==
+extraerMenor(String, int)------------------- min
+extraerMayor(String, int)------------------- max
+extraerMenorOIgual(String, int)------------- min_
+extraerMayorOIgual(String, int)------------- max_
+extraerIgualA(String, int)------------------ ===
+extraerDiferenteQue(String, int)------------ dif==
+extraerAnd(String, int)--------------------- AND
+extraerOr(String, int)---------------------- OR
+extraerPuntoYComa(String, int)-------------- ..
+extraerLlaves(String, int)------------------ ¡!
+extraerCorchetes(String, int)--------------- []
+extraerDes(String, int)--------------------- Des
+extraerRea(String, int)--------------------- rea
+
+qnumznum#val$valtof1214z1.1111if#|0cIYIY3$M_etodo 4_CLASE asduringvacantcrackconditionotherlevelconstantinterfazactual+p-pSUMRESMULTDIV==minmaxmin_max_===dif==ANDOR..¡![]DesConhasgdsad
+
+ qnumznum#val$valtof1214z1.1111if#|0cIYIY3$M_etodo 4_CLASE asduringvacantcrackconditionotherlevelconstantinterfazactual+p-pSUMRESMULYDIV==minmaxmin_max_:===dif==ANDOR..¡![]DesConhasgdsad
